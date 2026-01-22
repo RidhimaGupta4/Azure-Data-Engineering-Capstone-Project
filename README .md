@@ -1,6 +1,6 @@
 ## Azure Data Engineering Capstone Project
 
-### About Formula One 
+### About Formula One  
 
 Similar to IPL cricket English Premier League football or NFL, Formula One season, roughly over 20 races, happens once a year.
 
